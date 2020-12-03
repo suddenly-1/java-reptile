@@ -1,0 +1,4 @@
+server:
+  port: 8081
+
+MyTest: 测试
